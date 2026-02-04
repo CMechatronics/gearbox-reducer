@@ -4,14 +4,17 @@
 This project presents the **design and analysis of an industrial spur gear speed reducer** intended for continuous operation in an automated system.  
 The gearbox is designed to reduce motor speed while increasing output torque, ensuring safe and reliable operation.
 
-## Technical Specifications
+  ## Technical Specifications
 - **Input power:** 7.5 HP  
 - **Input speed:** 1440 rpm  
+- **Transmission ratio:** i = 2.034 : 1  
+- **Output speed:** ≈ 708 rpm  
+- **Output torque:** 7.5 kgf·m  
 - **Gear type:** Spur gears (straight teeth)  
 - **Safety factor:** 3  
 - **Lubrication:** Oil bath  
 - **Expected service life:**  
-  15 years – 300 working days/year – 16 h/day  
+  15 years – 300 working days/year – 16 h/day
 
 ## Design Scope
 The project includes:
